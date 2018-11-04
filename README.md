@@ -1,7 +1,7 @@
 # DesignApplications
 
 
-I design software applications for DSP (Digital Signal Processing) such as Numeric Filters and Plot Graphs using Matlab
+I design software applications for DSP (Digital Signal Processing) such as Digital Filters and Plot Graphs using Matlab
 
 Also to run the application and see the User Interface you should have Matlab installed on you PC
 
